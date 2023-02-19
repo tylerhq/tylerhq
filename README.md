@@ -1,6 +1,6 @@
 # Hi, I'm Tyler 👋 👨🏻‍💻
 
-<img src="https://raw.githubusercontent.com/tylerhq/tylerhq/master/lemon-banner.png" alt="banner that says When life gives you lemons, let's scale a lemonade stand -Tyler Conover">
+<img src="https://raw.githubusercontent.com/tylerhq/tylerhq/master/lemon-banner.png?1" alt="banner that says When life gives you lemons, let's scale a lemonade stand -Tyler Conover">
 I'm an ecommerce manager who is passionate about helping businesses win. I research and think hard, working to make small changes with an outsized impact.
 
 
