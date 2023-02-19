@@ -1,7 +1,8 @@
 # Hi, I'm Tyler 👋 👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/tylerhq/tylerhq/master/lemon-banner.png?1" alt="banner that says When life gives you lemons, let's scale a lemonade stand -Tyler Conover">
-I'm an ecommerce manager who is passionate about helping businesses win. I research and think hard, working to make small changes with an outsized impact.
+I'm an ecommerce manager who is passionate about helping small businesses grow.
+I tend to research, think hard, collaborate, and make small changes with an outsized impact.
 
 
 ## Find me around the web 🌎 <a href="https://notfondofrules.com/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/tylerhq/tylerhq/master/wave.png" alt="illustration of tyler waving"></a>
